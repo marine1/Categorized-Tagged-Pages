@@ -1,7 +1,6 @@
 === Categorized & Tagged Pages ===
 Contributors: marine1
-Donate link: 
-Tags: page, category, category in page, tag in page, categories in page, tags in page, page archive, pages 
+Tags: page, category, category in page, tag in page, categories in page, tags in page, pages 
 Requires at least: 3.3
 Tested up to: 5
 Stable tag: 1.0
@@ -10,7 +9,13 @@ Quickly add Categories and Tags to Wordpress Pages.
 
 == Description ==
 "Categorized & Tagged Pages" plugin allows you to quickly add Categories and Tags to your Wordpress Pages.
- 
+
+Note: This program is free software:
+you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation.
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+
 == Installation ==
 Upload “Categorized & Tagged Pages” folder to the “/wp-content/plugins/” directory
 Just activate the plugin through the “Plugins” menu in WordPress and it will add category and tag support to Wordpress Pages
@@ -32,17 +37,4 @@ This plugin allows you to add the power of Wordpres
 * Adds categories to Pages
 * Adds Tags to Pages
 * Lets you display List of Pages based on Categories
-* It's utilizes the archive.php and tag.php file included in your theme. 
-
-= What are the benefits ?  = 
-There are various benefits of adding category to Pages YOu can
-* Embed a Category Based List of Pages 
-* Create a Tag based archive for Pages
-* Create a Category based Archive for Pages
-* Hide Pages belonging to certain Category.. and Lots More
-
-
-
-In case you face any problem, contact us via the [Forums](). 
-
-
+  
