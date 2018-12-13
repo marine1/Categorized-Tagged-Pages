@@ -24,12 +24,7 @@ Just activate the plugin through the “Plugins” menu in WordPress and it will
 Upload “Categorized & Tagged Pages” folder to the “/wp-content/plugins/” directory
 Just activate the plugin through the “Plugins” menu in WordPress and it will add category and tag support to Wordpress Pages
 
-== Screenshots ==
-1. #
-2. #
-3. #
-*/ 
-
+1. /screenshot.png
 
 This plugin allows you to add the power of Wordpres
 
